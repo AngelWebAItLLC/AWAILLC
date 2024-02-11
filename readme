@@ -1,0 +1,357 @@
+Angel Web &amp; IT LLC Website 
+html class:!!All Pages; @@Happy-#; **Calling-#;
+!!<script src="https://kit.fontawsome.com/d8cb9d99be.js" crossorigin="annoymous"></script> 
+@@<a href="#top" id="happy-#"><i class="fa-regular fa-hand-peace fa-beat fa-lg" style="color:#f8c0c8;">Back To Top</i></a>
+**<a href="#top" id="calling-#"><i class="fa-regular fa-hand-pointer fa-bounce fa-lg" style="color:#050505;">Back To Top</i></a>
+@@<a href="twitter.com/angelbedell31713"><i class="fa-brands fa-x-twitter fa-beat fa-lg" style="color:#f8c0c8;"></i></a>
+**<a href="twiitter.com/angelbedell31713"><i class="fa-brands fa-x-twitter fa-bounce fa-lg" style="color:#050505;"></i></a>
+@@<a href="https://facebook.com/AngelWebaITLLC"><i class="fa-brands fa-facebook fa-beat fa-lg" style="color:#F8C0C8"></i></a>
+**<a href="facebook.com/AngelWebaITLLC"><i class="fa-brands fa-facebook fa-bounce fa-lg" style="color: #050505;"></i></a>
+@@<a href="angelbedell24@gmail.com"><i class="fa-brands fa-google fa-beat fa-lg" style="color: #f8c0c8;"></i></a>
+**<a href="angelbedell24@gmail.com"><i class="fa-brands fa-google fa-bounce fa-lg" style="color: #050505;"></i></a>
+@@<a href="https://www.linkedin.com/in/misty-hacker/"><i class="fa-brands fa-linkedin fa-beat fa-lg" style="color: #f8c0c8;"></i>
+**<a href="https://www.linkedin.com/in/misty-hacker/"><i class="fa-brands fa-linkedin fa-bounce fa-lg" style="color: #050505;"></i></a>
+@@Phone <a href="580-402-1887"><i class="fa-solid fa-phone fa-beat fa-lg" style="color: #f8c0c8;"></i></a>
+**Phone <a href="580-402-1887"><i class="fa-solid fa-phone fa-bounce fa-lg" style="color: #050505;"></i></a>
+@@<address><i class="fa-solid fa-address-book fa-beat fa-lg" style="color: #f8c0c8;"></i>2013 E Chestnut Ave Enid Ok 73701</address>
+**<address><i class="fa-solid fa-address-book fa-bounce fa-lg" style="color: #050505;">2013 E Chestnut Ave Enid OK 73701</i></address>
+@@<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Rye&family=Sancreek&display=swap"
+        rel="stylesheet">
+   <style>
+        @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Rye&family=Sancreek&display=swap');
+    </style>
+**<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Miniver&family=Mynerve&family=Philosopher&display=swap"
+        rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Miniver&family=Mynerve&family=Philosopher&display=swap');
+    </style>
+@@<img src="https://i.ibb.co/HqcL5Cw/angel-web-it-llc-75.jpg" alt="angel-web-it-llc-75" border="0" id="angel-1">
+**<img src="https://i.ibb.co/HqcL5Cw/angel-web-it-llc-75.jpg" alt="angel-web-it-llc-75" border="0" id="angel-2">
+!!<div id="copyright" align="center">&copy; 2023 - 2024 WWW.angelweit.website</div>
+<script>
+(function(){
+	let cpr = document.getElementById("copyright");
+	cpr.innerHTML = "&copy; 2023 - "+new Date().getFullYear()+" WWW.angelweit.website - All Rights Reserved.";
+	cpr.innerHTML += "<br/>Last Updated : "+document.lastModified;
+})();
+</script>
+@@ 
+background-color:#AA53C6
+color:#010101
+Nav/Footer:#0A2342
+Nav color:#F8C0C8
+Nav hover: #270722
+**
+background-color:#009FB7
+color:#271033
+Nav:#EC058E
+nav color:#050505
+nav hover:#16DB93
+
+Home - Index.html- @@
+Html class= happy 
+body id= sad
+header class= navi
+div id= logo-1
+img id = angel-1
+div class= nav
+ul class= nav-bar-1
+li class= nav-link-1
+main id= Home
+img <img src="https://i.ibb.co/Ld1r706/angel-web-it-llc.jpg" alt="angel-web-it-llc" border="0" id="angel">
+h1 class=title-1
+p class=worried
+hr class= bright
+br class= page
+footer class= navi
+#top class=happy
+
+About - about.html - **
+html class = Calling
+body id= shout
+header class = navi-2
+div id = logo-2
+img id=angel-2
+div class= nav-2
+ul class=nav-bar-2
+li class=nav-link-2
+main id=Home
+h1 class=title-2
+hr class= light
+h2 class=title-3
+p class= text
+h3 class = title-4
+h4 class = title-5
+ul id=choose
+li class= pick
+div id= dove-img
+img id=dove
+br class=break
+footer class= navi-2
+#top class= calling
+
+projects - projects.html - @@-%%
+html class= happy-2
+body id= sad
+header class= navi
+div id= logo-1
+img id= angel-1
+div class= nav
+ul class= nav-bar-1
+li class= nav-link-1
+main id= projects
+h1 class= title-1
+h2 class= title-6
+div id= certification
+img <a href="certification.html"><img src="https://i.ibb.co/prYt764/certification.jpg" alt="certification" border="0" id="certificat">
+div id= personal
+img <a href="personal.html"><img src="https://i.ibb.co/z4xybp5/personal" alt="personal" border"0" id="I">
+p class= worried
+hr class= bright
+br class= page
+footer class= navi
+#top class= happy-2
+
+services services.html **
+html class = calling-2
+body id = shout
+header class = navi-2
+div id = logo-2
+img id= angel-2
+div class=nav-2
+ul class = nav-bar-2
+li class = nav-link-2
+main id=services
+h1 class=title-2
+p class= text
+br class= break
+hr class=light
+section id= operation
+h2 class = title-3
+article class=schedule
+p class=day
+p class=time1
+p class=time2
+section id=webdev
+article class=dev 
+p class= Pages
+p class= prices
+section id= itprices
+article class=itprices
+p class= report
+p class= prices
+footer class= navi-2
+#top claas= calling-2
+
+Policies-policies.html-@@--^^
+Html class=Happy-3 
+body id= sad
+header class= navi
+div id= logo-1
+img id= angel-1
+div class= nav
+ul class= nav-bar-1
+li class= nav-link-1
+main id=policy
+h1 class= title-1
+h2 class= title-6
+p class= worried
+hr class= bright
+br class= page
+div id=confidentiality
+img id=isolation <a href="privacy.html">^^
+div id=tos
+img id=help <a href="terms">^^
+div id=retraction
+img id=waiver <a href="disclaimer.html">^^
+div id=access
+img id=ibility <a href="statement">^^
+div id=GDPR
+img id=lann <a href="gdpr.html">^^
+div id=trademark
+img id=patent <a href="copy.html">^^
+div id=end-user
+img id=license-agreement <a href="eula.html">^^
+div id=data-sto
+img id=rage-disc <a href="dsd.html">^^
+div id=refunds
+img id= restore <a href="returns.html">^^
+div id= touch
+img id= condition <a href="termsof.html">^^
+footer class=navi
+#top class=happy-3
+
+contacts- contact.html **--++--&&
+html class=calling-3
+body id= shout
+header class = navi-2
+div id = logo-2
+img id=angel-2
+div class= nav-2
+ul class=nav-bar-2
+li class=nav-link-2
+main id=contact
+h1 class= title-2
+p class=text 
+hr class=light
+br class=break
+h2 class=title-3
+div id=Web
+img id=web-con <a href="web.html">++-&&
+div id=it-con
+img id=itconta <a href="it.html">++-&&
+footer class=navi-2 
+#top class=calling-3
+
+@@-?? certification.html
+html class=happy-4
+body id=sad
+header class=navi
+div id=logo-1
+img id=angel-1
+div class=nav
+ul class=nav-bar-1
+li class=nav-link-1
+main id= graduation
+h1 class=title-1
+p class=worried
+hr class=bright
+br class=page
+div id=survey
+img id=harry <a href="potter.html">%
+div id=tribute
+img id=Jewel <a href="tribute.html">%
+div id=tech
+img id=doc <a href="tech.html">%
+div id=product
+img id=landing <a href="landing.html">%
+div id=portifilo
+img id=bio <a href="bio.html">%
+footer class=navi
+#top class=happy-4
+
+personaL- PERSONAL.HTML-**-??
+html class=calling-4
+body id= shout
+header class = navi-2
+div id = logo-2
+img id=angel-2
+div class= nav-2
+ul class=nav-bar-2
+li class=nav-link-2
+main id= self
+h1 class=title-2
+p class=text
+h2 class=title-3
+hr class=light
+br class=break
+div id=coming
+img id=soon <a href="personal.html">
+footer class=navi-2
+#top class=calling-4
+
+Privacy - @@ - ^^- privacy.html
+Html class- happy-5
+body id=sad
+header class=navi
+div id=logo-1
+img id=angel-1
+div class=nav
+ul class=nav-bar-1
+li class=nav-link-1
+main id=privacy-policy
+h1 class=title-1
+p class=worried
+h2 class=title-6
+hr class= bright
+br class=Page
+h3 class=title-7
+ul id=definitions
+li class=meaning
+h4 class=title-8
+ul id=oneself
+li class=info
+ul id=media
+li class=butterfly
+ul id=cotton
+li class=candy
+ul id=session
+li class=persistent
+ul id=reason
+li class=faygo
+ul id=share
+li class=belief
+ul id=questions
+li class= answer
+footer class=navi
+#top class=happy-5
+
+Terms and condition-termsof.html- ** - ^^-
+html class=calling-5
+body id=shout
+header class=navi-2
+div id=logo-2
+img id=angel-2
+div class=nav-2
+ul class=nav-bar-2
+li class=nav-link-2
+main id=condition
+h1 class=title-2
+p class=text
+br class=break
+hr class= light
+h2 class= title-3
+h3 class = title-4
+ul id=restrictions
+li class= must-not
+ul id=warrant
+li class=represent
+ul id= link
+li class=without
+ul id= type
+li class=approve
+ul id=may
+li class=hyperlink
+ul id=extent
+li class=relating
+footer class=navi-2
+#top class=calling-5
+
+@@ - ^^-copyright-copy.html
+Html class- happy-6
+body id=sad
+header class=navi
+div id=logo-1
+img id=angel-1
+div class=nav
+ul class=nav-bar-1
+li class=nav-link-1
+main id=copy
+h1 class=title-1
+p class=worried
+br class=page
+hr class=bright
+h2 class=title-6
+h3 class=title-7
+ul id=purposes
+li class=cookies
+ul id=set 
+li class=below
+ul id=choices
+li class=regarding
+ul id=ahold
+li class=us 
+footer class=navi
+#top class=happy-6
+<div id="copyright" align="center">&copy; 2023 - 2024 WWW.angelweit.website</div>
+<script>
+(function(){
+	let cpr = document.getElementById("copyright");
+	cpr.innerHTML = "&copy; 2023 - "+new Date().getFullYear()+" WWW.angelweit.website - All Rights Reserved.";
+	cpr.innerHTML += "<br/>Last Updated : "+document.lastModified;
+})();
+</script>
