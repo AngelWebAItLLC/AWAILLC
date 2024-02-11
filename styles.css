@@ -1,0 +1,40 @@
+:root {
+    --font-color1: #010101;
+    /*class="happy-#" main text"*/
+    --font-color2: #F8C0C8;
+    /*class=happy-# nav text"*/
+    --font-color3: #271033;
+    /*class=calling-#" main Text*/
+    --font-color4: #050505;
+    /*class=calling-#" nav Text*/
+    --background-color1: #AA53C6;
+    /*class="happy-#" main*/
+    --background-color2: #0A2342;
+    /*class="happy-#" Nav*/
+    --background-color3: #270722;
+    /*class="happy-#" hover*/
+    --background-color4: #009FB7;
+    /*class="calling-#" main*/
+    --background-color5: #EC058E;
+    /*class="happy-#" Nav*/
+    --background-color6: #16DB93;
+    /*class="happy-#" hover*/
+    --font-family1: 'Architects Daughter', cursive;
+    /*class="happy-#"title"*/
+    --font-family2: 'Rye', serif;
+    /*class="happy-#" main text"*/
+    --font-family3: 'Sancreek', serif;
+    /*class=happy-# nav text"*/
+    --font-family4: 'Miniver', cursive;
+    /*class="calling-#"title"*/
+    --font-family5: 'Mynerve', cursive;
+    /*class=happy-# nav text"*/
+    --font-family6: 'Philosopher', sans-serif;
+    /*class="happy-#" main text"*/
+}
+
+@media(prefers-reduced-motion: no-prefrence) {
+    * {
+        scroll-behavior: smooth;
+    }
+}
